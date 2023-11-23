@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 .data
-*.pt
+es_en_model_*.pt
 __pycache__
 wandb
 env
